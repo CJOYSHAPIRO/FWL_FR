@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FRENCH",
-    "currentPage": "involved.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Acqueil",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -770,7 +770,7 @@
     "gallery.html": {
       "settings": {
         "meta_descr": "FWL Photo Gallery",
-        "title": "gallery",
+        "title": "Media",
         "order": 2
       },
       "components": [
@@ -1527,7 +1527,7 @@
     "program.html": {
       "settings": {
         "meta_descr": "2017-2018 FWL Program",
-        "title": "program",
+        "title": "Programme",
         "order": 4
       },
       "components": [
@@ -2097,7 +2097,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "About FWL",
-        "title": "about",
+        "title": "À propos",
         "order": 3
       },
       "components": [
@@ -2846,7 +2846,7 @@
     "involved.html": {
       "settings": {
         "meta_descr": "Get Involved",
-        "title": "Get Involved",
+        "title": "Participer",
         "order": 1
       },
       "components": [
